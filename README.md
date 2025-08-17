@@ -14,7 +14,9 @@ The intelligent fault diagnosis (IFD) methods obtain superior performance in ens
 
 2. **File Path Setup**  
    Update the `data_direction` variable in `train_util_HETPM.py` to point to your local dataset directory.
-
+   
+3. **Run HETPM_auto.py**  
+   
 ### Citation
 If you find this work useful, please cite our paper:
 
