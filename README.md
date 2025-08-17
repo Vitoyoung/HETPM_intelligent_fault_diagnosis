@@ -1,7 +1,7 @@
 # Heterogeneous Heterogeneous Heter Heterogeneous## Heter Heterogeneous Extractor for Cross-Domain Bearing Fault Diagnosis
 
 This repository contains the official implementation of the paper:  
-**"Using Heterogeneous Extractor to Transfer Local-Global Knowledge for Cross-Domain Rolling Bearing Fault Diagnosis"**  
+**"[Using Heterogeneous Extractor to Transfer Local-Global Knowledge for Cross-Domain Rolling Bearing Fault Diagnosis](https://ieeexplore.ieee.org/document/11048667)"**  
 published in IEEE Transactions on Instrumentation and Measurement.
 
 ### Overview
